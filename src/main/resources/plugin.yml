@@ -1,0 +1,4 @@
+name: B_s_TacticalMarker
+version: '1.0'
+main: biraw.online.b_s_TacticalMarker.B_s_TacticalMarker
+api-version: '1.20'
